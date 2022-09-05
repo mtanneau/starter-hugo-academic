@@ -3,9 +3,9 @@ role: Post-doctoral Fellow
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Mixed-Integer Optimization
+  - Power Systems
+  - Machine Learning
 social:
   - icon: envelope
     icon_pack: fas
@@ -18,7 +18,7 @@ social:
     link: https://github.com/mtanneau
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/mtanneau/
 organizations:
   - name: Georgia Institute of Technology
     url: https://www.isye.gatech.edu/users/mathieu-tanneau
