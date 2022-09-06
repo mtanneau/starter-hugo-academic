@@ -22,7 +22,7 @@ abstract: This paper studies disjunctive cutting planes in Mixed-Integer Conic
   approach is competitive with the internal lift-and-project cuts of a
   state-of-the-art solver.
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
