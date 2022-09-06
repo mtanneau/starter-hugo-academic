@@ -27,9 +27,9 @@ education:
     - course: PhD in Applied Mathematics
       institution: Polytechnique Montreal
       year: 2019
-    - course: "MS "
+    - course: M.S.
       institution: Ecole polytechnique
-      year: 2017
+      year: 2015
 superuser: true
 highlight_name: true
 title: Mathieu Tanneau
