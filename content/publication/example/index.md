@@ -21,6 +21,7 @@ abstract: The Security-Constrained Economic Dispatch (SCED) is a fundamental
   ability to produce, within a time frame that is compatible with real-time
   operations, accurate optimization proxies that produce relative errors below
   1%.
+draft: false
 slides: example
 url_pdf: ""
 publication_types:
@@ -34,11 +35,11 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   condimentum.
 url_dataset: ""
 url_project: ""
-author_notes: []
 publication_short: In *ICW*
 url_source: ""
 url_video: ""
-publication: Electric Power Systems Research
+author_notes: []
+publication: In Electric Power Systems Research
 featured: false
 date: 2013-07-01T00:00:00Z
 url_slides: ""
