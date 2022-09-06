@@ -35,13 +35,13 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   condimentum.
 url_dataset: ""
 url_project: ""
-publication_short: In *ICW*
+publication_short: In *EPSR*
 url_source: ""
 url_video: ""
 author_notes: []
 publication: In Electric Power Systems Research
 featured: false
-date: 2013-07-01T00:00:00Z
+date: 2022-07-03T00:00:00.000Z
 url_slides: ""
 title: Learning Optimization Proxies for Large-Scale Security-Constrained
   Economic Dispatch
@@ -51,7 +51,7 @@ image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
   preview_only: false
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 doi: https://doi.org/10.1016/j.epsr.2022.108566
