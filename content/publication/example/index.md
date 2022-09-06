@@ -22,7 +22,7 @@ abstract: The Security-Constrained Economic Dispatch (SCED) is a fundamental
   operations, accurate optimization proxies that produce relative errors below
   1%.
 draft: false
-slides: example
+slides: ""
 url_pdf: ""
 publication_types:
   - "2"
@@ -30,9 +30,7 @@ authors:
   - Wenbo Chen
   - admin
   - Pascal Van Hentenryck
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum.
+summary: ""
 url_dataset: ""
 url_project: ""
 publication_short: In *EPSR*
@@ -48,7 +46,7 @@ title: Learning Optimization Proxies for Large-Scale Security-Constrained
 tags: []
 projects: []
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  caption: ""
   focal_point: ""
   preview_only: false
 publishDate: 2017-01-01T00:00:00.000Z
