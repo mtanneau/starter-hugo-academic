@@ -2,7 +2,6 @@
 title: Data-Driven Time Series Reconstruction for Modern Power Systems Research
 publication_types:
   - "2"
-  - "1"
 authors:
   - Minas Chatzos
   - admin
