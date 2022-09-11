@@ -24,8 +24,9 @@ abstract: This paper studies disjunctive cutting planes in Mixed-Integer Conic
 draft: false
 featured: true
 image:
-  filename: featured
-  focal_point: Smart
+  filename: split_cut.png
+  focal_point: Center
   preview_only: false
+  caption: Split cut
 date: 2022-06-05T22:46:12.677Z
 ---
