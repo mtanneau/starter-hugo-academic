@@ -2,7 +2,7 @@
 title: A Linear Outer Approximation of Line Losses for DC-based Optimal Power
   Flow Problems
 publication_types:
-  - "0"
+  - "2"
 authors:
   - Haoruo Zhao
   - admin
