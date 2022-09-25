@@ -1,7 +1,8 @@
 ---
 role: Post-doctoral Fellow
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: I'm interested in mixed-integer linear and nonlienar optimization, power
+  systems, and the integration of machine-learning techniques in optimization
+  algorithms.
 interests:
   - Mixed-Integer Optimization
   - Power Systems
