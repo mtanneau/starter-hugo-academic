@@ -25,7 +25,7 @@ draft: false
 featured: true
 image:
   filename: featured.png
-  focal_point: Center
+  focal_point: top
   preview_only: false
   caption: ""
 date: 2022-06-05T22:46:12.677Z
