@@ -9,7 +9,7 @@ authors:
   - Andrea Lodi
 doi: https://doi.org/10.1007/s12532-020-00200-8
 publication: Mathematical Programming Computation
-publication_short: Math. Prog. Comp.
+publication_short: _Math. Prog. Comp._
 abstract: "This paper introduces the algorithmic design and implementation of
   Tulip, an open-source interior-point solver for linear optimization. It
   implements a regularized homogeneous interior-point algorithm with multiple
@@ -36,3 +36,7 @@ image:
   preview_only: false
 date: 2021-02-08T21:13:14.851Z
 ---
+
+The recording of my presentation at JuMP-dev workshop 2020 (online)
+
+{{< youtube lT1DExrUZYc >}}
