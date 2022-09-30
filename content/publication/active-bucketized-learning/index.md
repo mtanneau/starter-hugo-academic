@@ -8,6 +8,7 @@ authors:
   - Terrence W. Mak
   - Pascal Van Hentenryck
 doi: https://doi.org/10.48550/arXiv.2208.07497
+publication: Submitted to _AAAI 2023_
 abstract: This paper considers optimization proxies for Optimal Power Flow
   (OPF), i.e., machine-learning models that approximate the input/output
   relationship of OPF. Recent work has focused on showing that such proxies can
