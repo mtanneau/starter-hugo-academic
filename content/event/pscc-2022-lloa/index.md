@@ -16,7 +16,7 @@ date: '2022-06-28T10:00:00'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2022-06-28T10:00:00'
+publishDate: '2022-06-28T00:00:00'
 
 authors:
   - Haoruo Zhao
