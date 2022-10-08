@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Softwares | Mathieu Tanneau</title><link>https://mtanneau.github.io/software/</link><atom:link href="https://mtanneau.github.io/software/index.xml" rel="self" type="application/rss+xml"/><description>Softwares</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 22 Apr 2018 00:00:00 +0000</lastBuildDate><image><url>https://mtanneau.github.io/media/icon_hu6d0b6698c0b106e0b0171c0b5adc3ac4_149107_512x512_fill_lanczos_center_3.png</url><title>Softwares</title><link>https://mtanneau.github.io/software/</link></image><item><title>Tulip.jl</title><link>https://mtanneau.github.io/software/tulip/</link><pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate><guid>https://mtanneau.github.io/software/tulip/</guid><description>&lt;p>The recording of my presentation at JuMP-dev workshop 2020 (online)
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/lT1DExrUZYc" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;/p>
+&lt;p>Initial presentation at JuMP-dev 2019
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/xsfYxdWqWB4" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;/p></description></item></channel></rss>
