@@ -4,7 +4,7 @@ title: Data-Driven Time Series Reconstruction for Modern Power Systems Research
 event: PSCC 2022
 event_url: https://pscc2022.pt/
 
-location: Porto, PT
+location: PSCC 2022 (Porto)
 
 summary:
 abstract: 'A critical aspect of power systems research is the availability of suitable data, access to which is limited by privacy concerns and the sensitive nature of energy infrastructure. This lack of data, in turn, hinders the development of modern research avenues such as machine learning approaches or stochastic formulations. To overcome this challenge, this paper proposes a systematic, data-driven framework for reconstructing high-fidelity time series, using publicly-available grid snapshots and historical data published by transmission system operators. The proposed approach, from geo-spatial data and generation capacity reconstruction, to time series disaggregation, is applied to the French transmission grid. Thereby, synthetic but highly realistic time series data, spanning multiple years with a 5-minute granularity, is generated at the individual component level.'
