@@ -37,8 +37,8 @@ title: Mathieu Tanneau
 email: ""
 ---
 
-Mathieu Tanneau is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently a post-doctoral fellow in at Georgia Tech with Pr. [Pascal Van Hentenryck](https://sites.gatech.edu/pascal-van-hentenryck/)
+My work focuses on optimization and machine learning as part of the [Risk-Aware Market-Clearing](https://ramc.isye.gatech.edu/) (RAMC) project.
+I received my PhD in 2020 from Polytechnique Montréal, where I was advised by Prs. [Andrea Lodi](https://www.tech.cornell.edu/people/andrea-lodi/) and [Miguel F. Anjos](https://www.maths.ed.ac.uk/school-of-mathematics/people/a-z?person=717).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
