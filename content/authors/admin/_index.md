@@ -37,7 +37,7 @@ title: Mathieu Tanneau
 email: ""
 ---
 
-I am currently a post-doctoral fellow in at Georgia Tech with Pr. [Pascal Van Hentenryck](https://sites.gatech.edu/pascal-van-hentenryck/)
+I am currently a post-doctoral fellow at Georgia Tech with Pr. [Pascal Van Hentenryck](https://sites.gatech.edu/pascal-van-hentenryck/)
 My work focuses on optimization and machine learning as part of the [Risk-Aware Market-Clearing](https://ramc.isye.gatech.edu/) (RAMC) project.
 I received my PhD in 2020 from Polytechnique Montréal, where I was advised by Prs. [Andrea Lodi](https://www.tech.cornell.edu/people/andrea-lodi/) and [Miguel F. Anjos](https://www.maths.ed.ac.uk/school-of-mathematics/people/a-z?person=717).
 
