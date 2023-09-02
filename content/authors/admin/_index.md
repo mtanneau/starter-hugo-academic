@@ -1,8 +1,6 @@
 ---
-role: Post-doctoral Fellow
-bio: I'm interested in mixed-integer linear and nonlienar optimization, power
-  systems, and the integration of machine-learning techniques in optimization
-  algorithms.
+role: Research Engineer
+bio: I'm interested in mixed-integer linear and nonlienar optimization, power systems, and the integration of machine-learning techniques in optimization algorithms.
 interests:
   - Mixed-Integer Optimization
   - Power Systems
@@ -26,8 +24,8 @@ organizations:
 education:
   courses:
     - course: PhD in Applied Mathematics
-      institution: Polytechnique Montreal
-      year: 2019
+      institution: Polytechnique Montréal
+      year: 2020
     - course: M.S.
       institution: Ecole polytechnique
       year: 2015
@@ -37,8 +35,8 @@ title: Mathieu Tanneau
 email: ""
 ---
 
-I am currently a post-doctoral fellow at Georgia Tech with Pr. [Pascal Van Hentenryck](https://sites.gatech.edu/pascal-van-hentenryck/)
-My work focuses on optimization and machine learning as part of the [Risk-Aware Market-Clearing](https://ramc.isye.gatech.edu/) (RAMC) project.
+I am a ressearch engineer at Georgia Tech and the [AI Institute for Advances in Optimization](https://ai4opt.org) (AI4OPT), working with Pr. [Pascal Van Hentenryck](https://sites.gatech.edu/pascal-van-hentenryck/).
+My work focuses on optimization and machine learning and their application to power systems.
 I received my PhD in 2020 from Polytechnique Montréal, where I was advised by Prs. [Andrea Lodi](https://www.tech.cornell.edu/people/andrea-lodi/) and [Miguel F. Anjos](https://www.maths.ed.ac.uk/school-of-mathematics/people/a-z?person=717).
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
