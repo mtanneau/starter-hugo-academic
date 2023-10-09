@@ -35,7 +35,7 @@ title: Mathieu Tanneau
 email: ""
 ---
 
-I am a ressearch engineer at Georgia Tech and the [AI Institute for Advances in Optimization](https://ai4opt.org) (AI4OPT), working with Pr. [Pascal Van Hentenryck](https://sites.gatech.edu/pascal-van-hentenryck/).
+I am a research engineer at Georgia Tech and the [AI Institute for Advances in Optimization](https://ai4opt.org) (AI4OPT), working with Pr. [Pascal Van Hentenryck](https://sites.gatech.edu/pascal-van-hentenryck/).
 My work focuses on optimization and machine learning and their application to power systems.
 I received my PhD in 2020 from Polytechnique Montréal, where I was advised by Prs. [Andrea Lodi](https://www.tech.cornell.edu/people/andrea-lodi/) and [Miguel F. Anjos](https://www.maths.ed.ac.uk/school-of-mathematics/people/a-z?person=717).
 
