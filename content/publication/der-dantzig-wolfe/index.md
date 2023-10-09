@@ -9,7 +9,7 @@ authors:
   - admin
 doi: https://doi.org/10.1109/TPWRS.2018.2867476
 publication: IEEE Transactions on Power Systems
-publication_short: IEEE TPS
+publication_short: IEEE TPWRS
 abstract: Demand-response aggregators are faced with the challenge of how to
   best manage numerous and heterogeneous distributed energy resources (DERs).
   This paper proposes a decentralized methodology for optimal coordination of
