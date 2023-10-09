@@ -6,7 +6,7 @@ authors:
   - Andrea Lodi
   - admin
   - Juan-Pablo Vielma
-doi: https://doi.org/10.1007/s10107-022-01844-1
+doi: 10.1007/s10107-022-01844-1
 publication: Mathematical Programming Series A
 publication_short: Math. Prog. A
 abstract: This paper studies disjunctive cutting planes in Mixed-Integer Conic

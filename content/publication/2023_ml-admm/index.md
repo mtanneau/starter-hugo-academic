@@ -7,7 +7,7 @@ authors:
   - Minas Chatzos
   - admin
   - Pascal Van Hentenryck
-doi: https://doi.org/10.1109/TSG.2023.3251292
+doi: 10.1109/TSG.2023.3251292
 publication: IEEE Transactions on Smart Grids
 publication_short: IEEE TSG
 abstract: One potential future for the next generation of smart grids is the use

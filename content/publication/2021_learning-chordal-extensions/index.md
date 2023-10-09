@@ -6,7 +6,7 @@ authors:
   - Defeng Liu
   - Andrea Lodi
   - admin
-doi: https://doi.org/10.1007/s10898-020-00973-1
+doi: 10.1007/s10898-020-00973-1
 publication: Journal of Global Optimization
 publication_short: JOGO
 abstract: "A highly influential ingredient of many techniques designed to

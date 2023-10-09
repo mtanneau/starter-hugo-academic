@@ -7,7 +7,7 @@ authors:
   - admin
   - Miguel F. Anjos
   - Andrea Lodi
-doi: https://doi.org/10.1007/s12532-020-00200-8
+doi: 10.1007/s12532-020-00200-8
 publication: Mathematical Programming Computation
 publication_short: _Math. Prog. Comp._
 abstract: "This paper introduces the algorithmic design and implementation of

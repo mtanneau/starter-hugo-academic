@@ -6,7 +6,7 @@ authors:
   - Minas Chatzos
   - admin
   - Pascal Van Hentenryck
-doi: https://doi.org/10.1016/j.epsr.2022.108589
+doi: 10.1016/j.epsr.2022.108589
 publication: Electric Power Systems Research
 publication_short: EPSR
 abstract: A critical aspect of power systems research is the availability of

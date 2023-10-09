@@ -7,7 +7,7 @@ authors:
   - Haoruo Zhao
   - admin
   - Pascal Van Hentenryck
-doi: https://doi.org/10.1016/j.epsr.2022.108272
+doi: 10.1016/j.epsr.2022.108272
 publication: Electric Power Systems Research
 publication_short: EPSR
 abstract: This paper proposes a novel and simple linear model to capture line

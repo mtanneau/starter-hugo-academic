@@ -25,7 +25,7 @@ links:
   - icon: file-lines
     icon_pack: fa
     name: Paper
-    url: https://doi.org/https://doi.org/10.1007/s12532-020-00200-8
+    url: https://doi.org/10.1007/s12532-020-00200-8
 url_code: ''
 url_pdf: ''
 url_slides: ''

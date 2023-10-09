@@ -52,5 +52,5 @@ image:
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
-doi: https://doi.org/10.1016/j.epsr.2022.108566
+doi: 10.1016/j.epsr.2022.108566
 ---

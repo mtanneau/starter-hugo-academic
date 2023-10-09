@@ -7,7 +7,7 @@ authors:
   - Miguel Anjos
   - Andrea Lodi
   - admin
-doi: https://doi.org/10.1109/TPWRS.2018.2867476
+doi: 10.1109/TPWRS.2018.2867476
 publication: IEEE Transactions on Power Systems
 publication_short: IEEE TPWRS
 abstract: Demand-response aggregators are faced with the challenge of how to
