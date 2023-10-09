@@ -1,14 +1,15 @@
 ---
 title: Learning Regionally Decentralized AC Optimal Power Flows with ADMM
 publication_types:
-  - "3"
+  - "2"
 authors:
   - Terrence W.K. Mak
   - Minas Chatzos
   - admin
   - Pascal Van Hentenryck
 doi: https://doi.org/10.48550/arXiv.2205.03787
-publication: Under revisions at _IEEE Transactions on Smart Grids_
+publication: IEEE Transactions on Power Systems
+publication_short: IEEE TPWRS
 abstract: One potential future for the next generation of smart grids is the use
   of decentralized optimization algorithms and secured communications for
   coordinating renewable generation (e.g., wind/solar), dispatchable devices
