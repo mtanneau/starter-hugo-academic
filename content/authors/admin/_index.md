@@ -1,6 +1,6 @@
 ---
 role: Research Engineer
-bio: I'm interested in mixed-integer linear and nonlienar optimization, power systems, and the integration of machine-learning techniques in optimization algorithms.
+bio: I'm interested in mixed-integer linear and nonlinear optimization, power systems, and the integration of machine-learning techniques in optimization algorithms.
 interests:
   - Mixed-Integer Optimization
   - Power Systems
