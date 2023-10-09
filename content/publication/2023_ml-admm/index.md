@@ -7,9 +7,9 @@ authors:
   - Minas Chatzos
   - admin
   - Pascal Van Hentenryck
-doi: https://doi.org/10.48550/arXiv.2205.03787
-publication: IEEE Transactions on Power Systems
-publication_short: IEEE TPWRS
+doi: https://doi.org/10.1109/TSG.2023.3251292
+publication: IEEE Transactions on Smart Grids
+publication_short: IEEE TSG
 abstract: One potential future for the next generation of smart grids is the use
   of decentralized optimization algorithms and secured communications for
   coordinating renewable generation (e.g., wind/solar), dispatchable devices
